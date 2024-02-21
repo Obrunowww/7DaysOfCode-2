@@ -13,3 +13,5 @@ Escolher entre a área de Front-End ou Back-End.
 Se escolher Front-End, escolher entre aprender React ou Vue. Se escolher Back-End, escolher entre aprender C# ou Java.
 Decidir se especializar na área escolhida ou se tornar Fullstack.
 Escolher as tecnologias nas quais deseja se especializar ou conhecer, com a opção de adicionar quantas tecnologias quiser.
+
+veja em : https://obrunowww.github.io/7DaysOfCode-2/
